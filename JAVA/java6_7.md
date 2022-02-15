@@ -36,3 +36,4 @@ class PointSumAve{
   }
 }
 ```
+*출처 알쏭달쏭 자바 200제*
